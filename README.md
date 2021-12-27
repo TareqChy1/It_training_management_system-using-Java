@@ -36,19 +36,19 @@ By our project the manager of it-centre can easily handle his or her employee an
 <p>In  this gui Manager  can  manage all the employees .Manager and all employees can change password.Manager and all employees can manage all course</p>
 <img src="images/change pass.PNG">
 <p>In this gui student type  user can see their id and name. Student type user  can  change  their password.</p>
-<img src="images/student pass gui">
+<img src="images/student pass gui.PNG">
 <p>n this gui Student type user  can  change  their password.</p>
 
 ## Database Table Description
-<img src="images/db1.JPEG">
-<img src="images/db2.JPEG">
-<img src="images/db3.JPEG">
-<img src="images/db4.JPEG">
-<img src="images/db5.JPEG">
-<img src="images/db6.JPEG">
+<img src="images/db1.jpg">
+<img src="images/db2.jpg">
+<img src="images/db3.jpg">
+<img src="images/db4.jpg">
+<img src="images/db5.jpg">
+<img src="images/db6.jpg">
 
 ## Class Diagram
-<img src="images/class diagram.JPEG">
+<img src="images/class diagram.jpg">
 
 ## Tools Used
 <p>To develop this project we have used the following:</p>
